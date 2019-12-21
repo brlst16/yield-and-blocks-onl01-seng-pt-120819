@@ -1,6 +1,16 @@
 def hello_t(array)
 
-{ hello_t(names) { |name| puts name } }
+i = 0 
+
+  while i < array.length 
+    i = i + 1 
+  end
+
+
+
+
+
+#{ hello_t(names) { |name| puts name } }
 
 end
 
