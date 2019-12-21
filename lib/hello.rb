@@ -10,7 +10,7 @@ i = 0
 
 
 
-#{ hello_t(names) { |name| puts name } }
+
 
 end
 
